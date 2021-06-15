@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **codermonir40@gmail.com**
 
-- ⚡ Fun fact **I Think I Love Codign**
+- ⚡ Fun fact **I Think I Love coding**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

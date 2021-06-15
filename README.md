@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm Monirul Islam</h1>
 <h3 align="center">Professional Full Stack web Developer</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=coder-monir&label=Profile%20views&color=0e75b6&style=flat" alt="coder-monir" /> </p>
+
 - 🌱 I’m currently learning **Node.js & Express.js**
 
 - 📫 How to reach me **codermonir40@gmail.com**
+
+- ⚡ Fun fact **I Think I Love Codign**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

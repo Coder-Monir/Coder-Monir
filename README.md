@@ -1,4 +1,4 @@
-<img src="https://media-exp3.licdn.com/dms/image/C4E16AQFPLr59KorRAA/profile-displaybackgroundimage-shrink_200_800/0/1623862906963?e=1629331200&v=beta&t=NWhejl4RhsXUmem6oe-iYUJqmIeX9xyghPDIuHMSDTI" >
+<img src="https://media-exp3.licdn.com/dms/image/C4E16AQHCqAaDEyhSWw/profile-displaybackgroundimage-shrink_350_1400/0/1625382513158?e=1631145600&v=beta&t=x9Meri8cipMxSbNix5OZZGKrMIiiiK_8KOOn7hh5cRw" >
 <h1 align="center">Hi 👋, I'm Monirul Islam</h1>
 <h3 align="center">Creative Frontend developer, WordPress, Elementor pro Specialist</h3>
 
